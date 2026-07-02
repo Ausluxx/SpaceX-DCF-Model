@@ -101,10 +101,6 @@ SpaceX-DCF-Valuation
 ├── LICENSE
 ├── .gitignore
 ```
-
----
-
-
 ---
 
 ## Disclaimer
