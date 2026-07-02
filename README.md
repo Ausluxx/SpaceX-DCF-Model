@@ -104,14 +104,6 @@ SpaceX-DCF-Valuation
 
 ---
 
-## Future Improvements
-
-* Sensitivity Analysis
-* Scenario Analysis (Bull/Base/Bear)
-* Monte Carlo Simulation
-* Comparable Company Valuation
-* Precedent Transactions Analysis
-* Automated data integration
 
 ---
 
