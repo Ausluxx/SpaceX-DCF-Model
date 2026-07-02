@@ -100,7 +100,6 @@ SpaceX-DCF-Valuation/
 ├── README.md                    
 ├── LICENSE                   
 ├── .gitignore                   
-│
 ├── assets/
     ├── SpaceX - DCF Model - Dashboard.pdf
     └── SpaceX - DCF Model - Assumptions.pdf
