@@ -99,10 +99,7 @@ SpaceX-DCF-Valuation
 ├── SpaceX - DCF Model.xlsx
 ├── README.md
 ├── LICENSE
-└── assets/
-    ├── dashboard.png
-    ├── dcf.png
-    └── cover.png
+├── .gitignore
 ```
 
 ---
