@@ -102,9 +102,8 @@ SpaceX-DCF-Valuation/
 ├── .gitignore                   
 │
 ├── assets/
-    ├── dashboard.png
-    ├── dcf.png
-    └── cover.png
+    ├── SpaceX - DCF Model - Dashboard.pdf
+    └── SpaceX - DCF Model - Assumptions.pdf
 ```
 ---
 
