@@ -94,12 +94,17 @@ This project demonstrates practical application of:
 ## Repository Contents
 
 ```
-SpaceX-DCF-Valuation
+SpaceX-DCF-Valuation/
 │
-├── SpaceX - DCF Model.xlsx
-├── README.md
-├── LICENSE
-├── .gitignore
+├── SpaceX - DCF Model.xlsx     
+├── README.md                    
+├── LICENSE                   
+├── .gitignore                   
+│
+├── assets/
+    ├── dashboard.png
+    ├── dcf.png
+    └── cover.png
 ```
 ---
 
