@@ -1,9 +1,7 @@
-
 ~$*.xlsx
 ~$*.xls
 ~$*.xlsm
 
-# AutoRecover files
 *.xlk
 
 .DS_Store
